@@ -241,4 +241,4 @@ This repository serves as the official landing page for Total War Saga: Thrones 
 **Get the most recent version of Total War Saga: Thrones of Britannia today!**
 
 ---
-**Last updated:** 2026-10-24 22:59:22 UTC
+**Last updated:** 2026-10-25 01:01:09 UTC
